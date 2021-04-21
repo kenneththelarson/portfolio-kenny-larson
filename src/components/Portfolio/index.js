@@ -4,7 +4,7 @@ import miles from '../../assets/portfolio/miles-ahead-logo.png';
 import blog from '../../assets/portfolio/the_tech_blog_screenshot.png';
 import fiesta from '../../assets/portfolio/urban-fiesta.jpg';
 import weather from '../../assets/portfolio/WeatherScreenshot.png';
-import quiz from '../../assets/portfolio/javascriptQuizScreenshot';
+import quiz from '../../assets/portfolio/javascriptQuizScreenshot.png';
 import scheduler from '../../assets/portfolio/workDaySchedulerScreenshot.png';
 
 function Portfolio() {

@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 function Nav() {
     return (
@@ -9,10 +10,26 @@ function Nav() {
             </h2>
             <nav>
                 <ul>
-                    <li>About Me</li>
-                    <li>Portfolio</li>
-                    <li>Contact</li>
-                    <li>Resume</li>
+                    <li>
+                        <Link to="/About">
+                            About Me
+                        </Link>
+                    </li>
+                    <li>
+                        <Link to="/Portfolio">
+                            Portfolio
+                        </Link>
+                    </li>
+                    <li>
+                        <Link to="Contact">
+                            Contact
+                        </Link>
+                    </li>
+                    <li>
+                        <Link to="Resume">
+                            Resume
+                        </Link>
+                    </li>
                 </ul>
             </nav>
         </header>
