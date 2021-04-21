@@ -1,11 +1,12 @@
 import React from 'react';
+import { AiOutlineDownload } from 'react-icons/ai';
 
 function Resume() {
     return (
         <div>
-            <p>Click me, please!</p>
+            <p>Click icon to download my resume.</p>
             <div>
-                <a href="./assets/resume" download type="application/pdf"></a>
+                <a href="/assets/resume/Kenneth Larson Resume 2021.pdf" download type="application/pdf"><AiOutlineDownload /></a>
             </div>
         </div>
     )
