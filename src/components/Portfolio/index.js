@@ -48,7 +48,7 @@ function Portfolio() {
     ]
 
     return (
-        <section>
+        <section className="flex-row">
             {projects.map((project, i) => (
                 <Projects project={project} i={i} key={project.projectName} />
             ))}
