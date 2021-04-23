@@ -21,12 +21,12 @@ function Nav() {
                         </Link>
                     </li>
                     <li className="mx-2">
-                        <Link to="Contact">
+                        <Link to="/Contact">
                             Contact
                         </Link>
                     </li>
                     <li className="mx-2">
-                        <Link to="Resume">
+                        <Link to="/Resume">
                             Resume
                         </Link>
                     </li>
