@@ -5,13 +5,13 @@ function Nav() {
     return (
         <header className="flex-row px-1">
             <h2 className="title">
-                <a href="/About">Kenny Larson</a>
+                <a href="/portfolio-kenny-larson">Kenny Larson</a>
                 <p className="subtitle">Full Stack Web Developer</p>
             </h2>
             <nav>
                 <ul className="flex-row">
                     <li className="mx-2">
-                        <Link to="/About">
+                        <Link to="/portfolio-kenny-larson">
                             About Me
                         </Link>
                     </li>
