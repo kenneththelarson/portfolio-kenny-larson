@@ -6,7 +6,7 @@ function Resume() {
         <div>
             <p>Click icon to download my resume.</p>
             <div>
-                <a href="/assets/resume/Kenneth Larson Resume 2021.pdf" download type="application/pdf"><AiOutlineDownload /></a>
+                <a className="download" href="/assets/resume/Kenneth Larson Resume 2021.pdf" download type="application/pdf"><AiOutlineDownload /></a>
             </div>
         </div>
     )
