@@ -5,7 +5,7 @@ import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
 import Resume from './components/Resume';
 import Footer from './components/Footer';
-import { BrowserRouter as Router, Route, Switch, Redirect } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 function App() {
   return (
@@ -14,13 +14,7 @@ function App() {
         <Nav></Nav>
         <main>
           <Switch>
-            <Route exact path="/" render={() => {
-              return (
-                <Redirect to="/About" />
-              )
-            }}
-            />
-            <Route exact path="/About" component={About} />
+            <Route exact path="/portfolio-kenny-larson" component={About} />
             <Route exact path="/Portfolio" component={Portfolio} />
             <Route exact path="/Contact" component={Contact} />
             <Route exact path="/Resume" component={Resume} />
