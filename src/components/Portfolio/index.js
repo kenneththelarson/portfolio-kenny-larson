@@ -1,14 +1,20 @@
 import React from 'react';
 import Projects from '../Projects'
+import fanGear from '../../assets/portfolio/FanGearScreenshot.png'
 import miles from '../../assets/portfolio/miles-ahead-logo.png';
 import blog from '../../assets/portfolio/the_tech_blog_screenshot.png';
 import fiesta from '../../assets/portfolio/urban-fiesta.jpg';
 import weather from '../../assets/portfolio/WeatherScreenshot.png';
-import quiz from '../../assets/portfolio/javascriptQuizScreenshot.png';
 import scheduler from '../../assets/portfolio/workDaySchedulerScreenshot.png';
 
 function Portfolio() {
     const projects = [
+        {
+            projectName: 'Fan Gear',
+            repo: 'https://github.com/prestonrl/fan-gear',
+            deployed: 'https://fan-gear.herokuapp.com/',
+            img: fanGear
+        },
         {
             projectName: 'Miles Ahead',
             repo: 'https://github.com/prestonrl/miles-ahead',
@@ -38,12 +44,6 @@ function Portfolio() {
             repo: 'https://github.com/kenneththelarson/work-day-scheduler',
             deployed: 'https://kenneththelarson.github.io/work-day-scheduler/',
             img: scheduler
-        },
-        {
-            projectName: 'JavaScript Quiz',
-            repo: 'https://github.com/kenneththelarson/javascript.quiz',
-            deployed: 'https://kenneththelarson.github.io/javascript.quiz/',
-            img: quiz
         }
     ]
 
