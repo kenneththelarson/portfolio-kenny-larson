@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio-kenny-larson/static/css/main.b08061b2.chunk.css",
-    "main.js": "/portfolio-kenny-larson/static/js/main.c2e19a47.chunk.js",
-    "main.js.map": "/portfolio-kenny-larson/static/js/main.c2e19a47.chunk.js.map",
+    "main.js": "/portfolio-kenny-larson/static/js/main.39172f3e.chunk.js",
+    "main.js.map": "/portfolio-kenny-larson/static/js/main.39172f3e.chunk.js.map",
     "runtime-main.js": "/portfolio-kenny-larson/static/js/runtime-main.bc2985c9.js",
     "runtime-main.js.map": "/portfolio-kenny-larson/static/js/runtime-main.bc2985c9.js.map",
     "static/js/2.ca563061.chunk.js": "/portfolio-kenny-larson/static/js/2.ca563061.chunk.js",
@@ -12,9 +12,9 @@
     "index.html": "/portfolio-kenny-larson/index.html",
     "static/css/main.b08061b2.chunk.css.map": "/portfolio-kenny-larson/static/css/main.b08061b2.chunk.css.map",
     "static/js/2.ca563061.chunk.js.LICENSE.txt": "/portfolio-kenny-larson/static/js/2.ca563061.chunk.js.LICENSE.txt",
+    "static/media/FanGearScreenshot.aa9805bc.png": "/portfolio-kenny-larson/static/media/FanGearScreenshot.aa9805bc.png",
     "static/media/KennyPhoto.d8c17330.JPG": "/portfolio-kenny-larson/static/media/KennyPhoto.d8c17330.JPG",
     "static/media/WeatherScreenshot.bf393130.png": "/portfolio-kenny-larson/static/media/WeatherScreenshot.bf393130.png",
-    "static/media/javascriptQuizScreenshot.3bb8a2d0.png": "/portfolio-kenny-larson/static/media/javascriptQuizScreenshot.3bb8a2d0.png",
     "static/media/miles-ahead-logo.6eb12bd0.png": "/portfolio-kenny-larson/static/media/miles-ahead-logo.6eb12bd0.png",
     "static/media/the_tech_blog_screenshot.eff1bddd.png": "/portfolio-kenny-larson/static/media/the_tech_blog_screenshot.eff1bddd.png",
     "static/media/urban-fiesta.7869b34f.jpg": "/portfolio-kenny-larson/static/media/urban-fiesta.7869b34f.jpg",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.bc2985c9.js",
     "static/js/2.ca563061.chunk.js",
     "static/css/main.b08061b2.chunk.css",
-    "static/js/main.c2e19a47.chunk.js"
+    "static/js/main.39172f3e.chunk.js"
   ]
 }
