@@ -6,7 +6,7 @@ function Footer() {
         <div className="center">
             <div className="footer">
                 <a href="https://github.com/kenneththelarson"><AiFillGithub /></a>
-                <a href="https://www.linkedin.com/in/kenneth-larson-17371a99/"><AiFillLinkedin /></a>
+                <a href="https://www.linkedin.com/in/kenny-larson/"><AiFillLinkedin /></a>
             </div>
         </div>
     )
